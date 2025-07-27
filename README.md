@@ -1,72 +1,69 @@
 # CATEGORY-AND-PRODUCT-ANALYSIS-DASHBOARD
-📦 Category and Product Insights Dashboard
+📊 Category and Product Analysis Dashboard
 1. Project Title / Headline
-📈 Category and Product Insights Dashboard:
-An interactive Tableau dashboard for deep-diving into business performance metrics—focusing on product sales, profit trends, category-level analysis, regional performance, and discount KPIs to drive retail and operational decision-making.
+Category and Product Analysis Dashboard
+An interactive business intelligence dashboard built with Tableau, providing detailed insights into product-level sales and profitability across categories, sub-categories, regions, and states.
 
 2. Short Description / Purpose
-The Category and Product Insights Dashboard is a dynamic, visual analytics tool created in Tableau to help businesses analyze their product performance. It highlights sales, profit, and discounts across various product categories and regions, enabling faster, data-driven decisions for sales strategy and resource allocation.
+This dashboard is designed to analyze product sales and profitability metrics to support data-driven decisions in retail or e-commerce. It enables users to monitor KPIs, track top-selling products, identify regional performance, and compare category-level trends over time.
 
 3. Tech Stack
-The dashboard was built using the following tools and technologies:
+This dashboard was built using the following tools and technologies:
 
-📊 Tableau Desktop – Main data visualization platform for creating interactive reports.
+🧊 Tableau Desktop – Primary tool for data visualization and dashboard development.
 
-📄 Excel / CSV Files – Used as the data source for sales, profit, discount, and product details.
+📄 Excel / CSV – Source of sales data used for import and visualization.
 
-📈 Tableau Calculated Fields – Used to compute KPIs such as total sales, total profit, and discount average.
+📌 Tableau Maps – Used to create the geographic visual of “Sales by State”.
 
-🗺️ Tableau Maps – Used for regional and state-level analysis via geospatial visuals.
-
-📁 File Format – .twbx for Tableau packaged workbook and .png for dashboard previews.
+📈 KPIs & Charts – Created using calculated fields, filters, and visual best practices.
 
 4. Data Source
-Source: Internal sales data from a retail or distribution business.
-The dataset contains structured data on product sales, profits, categories (Furniture, Office Supplies, Technology), sub-categories (e.g., Copiers, Binders), discounts, order dates, and geographical locations (regions and U.S. states). This data allows for trend analysis, product ranking, and regional comparisons.
+The data used in this dashboard represents a retail dataset covering product sales, profit, and discount information across categories like Furniture, Office Supplies, and Technology. It includes regional and state-wise breakdowns as well as product-wise performance metrics.
 
 5. Features / Highlights
-💼 Business Problem
-Retail businesses often struggle with fragmented reports, making it hard to identify top-selling products, regional performance, or profitability trends. This dashboard helps solve that problem by centralizing key metrics and making them visually accessible in one place.
+🧩 Business Problem
+Sales and marketing teams need real-time insights into which products and regions are performing best to guide inventory planning, promotions, and profitability strategies. This dashboard addresses that gap by combining multiple insights in a single view.
 
 🎯 Goal of the Dashboard
-To provide an analytical tool that:
+To provide a unified platform where decision-makers can:
 
-Enables users to explore sales and profit performance by product, category, region, and state.
+Analyze top-performing products.
 
-Helps leadership make informed decisions on marketing, inventory, and regional expansion.
+Understand profitability by region and state.
 
-Supports quick, real-time understanding of business KPIs.
+Track category-wise trends by month.
+
+Monitor key business metrics (KPIs).
 
 🔍 Walkthrough of Key Visuals
-Key KPIs (Top Left)
+Key KPIs (Top Left):
+Displays important indicators like Total Profit, Total Sales, and Average Discount.
 
-Profit KPI: $43,075
+Top 10 Product Sales (Bar Chart):
+Highlights the highest-selling products like Canon imageCLASS and Cisco TelePresence, allowing inventory managers to focus on top contributors.
 
-Sales KPI: $244,620
+Sales and Profit by Category:
+A comparative bar chart showing performance across categories like Binders, Chairs, Copiers, etc., in both Sales and Profit.
 
-Discount KPI: 18.10%
-These metrics help monitor performance at a glance.
+Category vs Month Table:
+Displays a cross-tab view of category/sub-category sales across selected months.
 
-Top 10 Product Sales (Bar Chart)
-Highlights the top revenue-generating products such as Canon imageCLASS and Cisco TelePresence, giving clear insight into what products are driving business.
+Profit by Region (Bubble Chart):
+Shows regional profit distribution (East, West, Central) with larger bubbles for higher profitability.
 
-Sales and Profit by Category (Bar Chart)
-Compares major product groups like Binders, Chairs, Copiers, and Machines in terms of sales vs. profit—revealing which categories are high-volume vs. high-margin.
+Sales by State (Map View):
+A U.S. map highlighting state-wise sales values, identifying states with highest performance like California, New York, and Texas.
 
-Category vs. Month Table (Matrix View)
-Shows monthly sales data broken down by category and sub-category (e.g., Copiers, Chairs) across months like October, November, etc.
+💼 Business Insights
+Marketing Optimization: Identify regions or products with the best ROI for focused campaigns.
 
-Profit by Region (Bubble Chart)
-Visualizes profitability by U.S. region (East, West, Central), identifying the strongest profit zones—East leads with over $20,000.
+Sales Strategy: Spot underperforming areas to launch promotions or re-allocate stock.
 
-Sales by State (Map)
-A geographic view of state-wise sales performance. California, New York, and Texas show the highest sales, making them key strategic markets.
+Regional Trends: Gain deeper insight into which U.S. states and regions generate most revenue.
 
-🧠 Business Impact & Insights
-Marketing Optimization: Focus marketing efforts on top-selling products and high-profit regions.
+Operational Planning: Guide procurement and stock planning by tracking seasonal or regional demand.
 
-Inventory & Logistics: Allocate resources to high-performing states and regions based on sales heatmaps.
 
-Strategic Planning: Discover underperforming product lines or states and take corrective actions.
 
-Performance Monitoring: Use KPIs and monthly data to track business growth and spot anomalies.
+
