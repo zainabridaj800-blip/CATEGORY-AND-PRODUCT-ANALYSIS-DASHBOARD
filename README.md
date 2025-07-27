@@ -31,8 +31,6 @@ To provide a unified platform where decision-makers can:
 Analyze top-performing products.
 
 Understand profitability by region and state.
-<img width="1998" height="1077" alt="image" src="https://github.com/user-attachments/assets/1c21c91b-accf-40ce-bdbe-4c3e2dc4f458" />
-
 
 Track category-wise trends by month.
 
@@ -66,6 +64,8 @@ Regional Trends: Gain deeper insight into which U.S. states and regions generate
 
 Operational Planning: Guide procurement and stock planning by tracking seasonal or regional demand.
 
+screenshot
+<img width="1998" height="1077" alt="image" src="https://github.com/user-attachments/assets/659dd041-7861-4515-a841-99bf43e020a8" />
 
 
 
