@@ -31,6 +31,8 @@ To provide a unified platform where decision-makers can:
 Analyze top-performing products.
 
 Understand profitability by region and state.
+<img width="1998" height="1077" alt="image" src="https://github.com/user-attachments/assets/1c21c91b-accf-40ce-bdbe-4c3e2dc4f458" />
+
 
 Track category-wise trends by month.
 
